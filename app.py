@@ -1,4 +1,4 @@
 import flask
-def main()
+def main():
     print("Hello, CI/CD!")
 main()
