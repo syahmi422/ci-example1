@@ -1,1 +1,4 @@
-print("Hello, CI/CD!")
+import flask
+def main()
+    print("Hello, CI/CD!")
+main()
